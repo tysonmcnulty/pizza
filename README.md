@@ -4,9 +4,9 @@ A nexus point for conversations about distributed systems design and delicious, 
 
 ## Subprojects
 
-* [Pizza Consumer](git@github.com:tysonmcnulty/pizza-consumer.git)
-* [Pizza Mediator](git@github.com:tysonmcnulty/pizza-mediator.git)
-* [Pizza Producer](git@github.com:tysonmcnulty/pizza-producer.git)
+* [Pizza Consumer](https://github.com/tysonmcnulty/pizza-consumer.git)
+* [Pizza Mediator](https://github.com/tysonmcnulty/pizza-mediator.git)
+* [Pizza Producer](https://github.com/tysonmcnulty/pizza-producer.git)
 
 ## Problems
 
